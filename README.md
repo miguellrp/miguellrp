@@ -4,7 +4,7 @@
 
 <div align="center">
   <kbd align="center">
-    <img src="https://github.com/miguellrp/miguellrp/assets/128045563/0b0f81e8-de32-4205-9519-9ef9758162b3)" alt="Un autoretrato musical hecho hace un par de meses. Los discos más escuchados han cambiado, ¡pero los auriculares siguen siendo los mismos!" width="509" height="419" style="border-radius:50%"/>
+    <img src="https://github.com/miguellrp/miguellrp/assets/128045563/0b0f81e8-de32-4205-9519-9ef9758162b3)" alt="Un autoretrato musical hecho hace un par de meses. Los discos más escuchados han cambiado, ¡pero los auriculares siguen siendo los mismos!" width="509" height="419"/>
   </kbd>
 </div>
   
